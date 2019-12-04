@@ -1,4 +1,7 @@
 //Variáveis tipo let nomeDaVar;
+let posX, posY;
+let velX, velY;
+
 
 function setup() { //código que só corre uma vez
 
@@ -45,7 +48,6 @@ function draw() { //código que corre em loop
     fill (179, 136, 143);
     circle(244, 256, 20);
 
-  }
-
+  
 
 }
